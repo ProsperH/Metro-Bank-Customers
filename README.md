@@ -66,7 +66,7 @@ Corporate: 34% of customers.
 Private Banking: 9% of customers (elite, but small).
 
 Insight: Retail drives volume, but Private Banking yields higher value since their average income ($119K) is higher than Corporate ($113K) and Retail ($115K).
-![](avgseg.png)  ![](seg.png)
+![avgseg.png](https://github.com/user-attachments/assets/e7ea6f04-a003-4b41-9edc-4d4e007ee76e)  ![](seg.png)
 
 ### Customer Growth & Retention Trends
 
@@ -122,8 +122,6 @@ This will help reverse the slowdown and tap into new customer pools.
 - Corporate (34% share): Develop SME loan programs, business accounts with payroll services.
 - Private (9% share): Target luxury banking experiences.
 
-# Dashboard
-![](Wk1.png)
 
 
 
