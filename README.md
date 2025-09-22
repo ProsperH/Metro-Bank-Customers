@@ -28,12 +28,15 @@ The following columns were calculated to aid accurate analysis:
 # Insights and Visualization
 ### KPIs
 500 total customers analyzed.
+
 Average income: $114K.
+
 Average tenure: 5 years.
+
 Average age: 46 years.
 
 This suggests a relatively mature, middle-aged customer base with decent income and a stable relationship (5 years tenure) with the bank.
-![](KPIs.png)
+![](https://github.com/ProsperH/Metro-Bank-Customers/blob/d6bc18aa7ebf321bcac4d101e9ed3b3f26b23523/KPIs.png)
 
 ### Income Distribution
 Premium income bracket leads with 153 customers, followed by Medium (140), High (136), and Low (71).
