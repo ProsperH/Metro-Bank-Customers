@@ -37,6 +37,7 @@ This suggests a relatively mature, middle-aged customer base with decent income 
 
 ### Income Distribution
 Premium income bracket leads with 153 customers, followed by Medium (140), High (136), and Low (71).
+
 Most customers sit in the higher income brackets, meaning the bank is attracting wealthier individuals.
 
 Insight: The low-income segment is underserved (only 71 customers). This might be an opportunity for financial inclusion programs or entry-level banking products.
@@ -45,7 +46,9 @@ Insight: The low-income segment is underserved (only 71 customers). This might b
 ### Age Group
 
 Millennials (147) and Gen X (141) dominate the customer base.
+
 Boomers (126) also form a strong segment.
+
 Gen Z is the smallest group (86).
 
 Insight: The bank’s future growth potential is in Gen Z (still small but growing).
@@ -54,11 +57,26 @@ Insight: The bank’s future growth potential is in Gen Z (still small but growi
 ### Customer Segments
 
 Retail: 57% of customers — the largest group.
+
 Corporate: 34% of customers.
+
 Private Banking: 9% of customers (elite, but small).
 
 Insight: Retail drives volume, but Private Banking yields higher value since their average income ($119K) is higher than Corporate ($113K) and Retail ($115K).
 ![](avgseg.png) | ![](seg.png)
+
+### Customer Growth & Retention Trends
+
+Growth Trend: The bank experienced strong growth between 2016–2019, then plateaued, and slightly declined by 2025.
+
+Retention Trend: Customer retention fluctuates, with notable drops in later years.
+
+Insights:
+
+Growth slowdown means the bank needs new acquisition strategies.
+
+Retention issues could indicate customer churn problems — perhaps from competitors offering better digital experience.
+![](trend.png)
 
 
 
