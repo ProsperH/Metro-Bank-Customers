@@ -79,6 +79,49 @@ Retention issues could indicate customer churn problems — perhaps from competi
 ![](trend.png)
 
 
+# Recommendations
+1. Boost Growth in Underserved Segments
+
+- Launch digital-first, mobile-friendly banking apps tailored to Gen Z.
+- Offer student accounts, gamified savings, or micro-loan products to hook them early.
+- Introduce entry-level accounts with no fees to attract more low-income customers.
+
+Early loyalty from Gen Z equals lifetime value. Serving low-income equals expansion and social impact.
+
+
+2. Maximize Value from High-Income Customers
+
+- Expand Private Banking services: wealth management, investment advisory, premium cards.
+- Create exclusive perks (airport lounges, concierge, tailored loan products).
+
+Even small growth in this segment drives huge revenue uplift.
+
+
+3. Fix Customer Retention Issues
+
+- Deploy customer satisfaction surveys and track Net Promoter Score (NPS).
+- Launch loyalty programs: rewards for tenure, cashback for long-term savings, tiered benefits.
+
+Retention is cheaper than acquisition. Keeping existing customers drives long-term stability.
+
+
+4. Reignite Growth
+
+- Double down on digital marketing for millennials and Gen Z.
+- Partner with fintech apps, e-commerce platforms, and universities for acquisition funnels.
+
+This will help reverse the slowdown and tap into new customer pools.
+
+
+5. Segment-Specific Marketing & Products
+
+- Retail (57% share): Push everyday products — savings, cards, personal loans.
+- Corporate (34% share): Develop SME loan programs, business accounts with payroll services.
+- Private (9% share): Target luxury banking experiences.
+
+# Dashboard
+![](Wk1.png)
+
 
 
 
