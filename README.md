@@ -52,7 +52,7 @@ Boomers (126) also form a strong segment.
 Gen Z is the smallest group (86).
 
 Insight: The bank’s future growth potential is in Gen Z (still small but growing).
-![](group.png)
+![Age_Group_Distribution](group.png)
 
 ### Customer Segments
 
@@ -63,7 +63,7 @@ Corporate: 34% of customers.
 Private Banking: 9% of customers (elite, but small).
 
 Insight: Retail drives volume, but Private Banking yields higher value since their average income ($119K) is higher than Corporate ($113K) and Retail ($115K).
-![](avgseg.png) | ![](seg.png)
+![](avgseg.png)  ![](seg.png)
 
 ### Customer Growth & Retention Trends
 
